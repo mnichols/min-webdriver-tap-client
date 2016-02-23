@@ -1,0 +1,24 @@
+{
+  "name": "min-webdriver-tap-client",
+  "version": "1.0.0",
+  "description": "TAP output from min-webdriver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnichols/min-webdriver-tap-client.git"
+  },
+  "keywords": [
+    "min-wd",
+    "tape",
+    "webdriver"
+  ],
+  "author": "Mike Nichols <nichols.mike.s@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mnichols/min-webdriver-tap-client/issues"
+  },
+  "homepage": "https://github.com/mnichols/min-webdriver-tap-client#readme"
+}
