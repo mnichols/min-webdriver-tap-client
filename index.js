@@ -61,7 +61,7 @@ window._webdriver_manualPoll = function () {
 };
 
 brout.on('out', push);
-brout.on('err', err);
+//brout.on('err', err);
 brout.on('exit', function (code) {
   push('\nWEBDRIVER_EXIT(' + code + ')\n');
 });
