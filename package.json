@@ -1,6 +1,6 @@
 {
   "name": "min-webdriver-tap-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TAP output from min-webdriver",
   "main": "index.js",
   "scripts": {
